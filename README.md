@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @elmer1gabrie684
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning Ruby on Rails.
+- 💞️ Eager to contribute to open-source projects.
